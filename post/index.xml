@@ -6,8 +6,122 @@
     <description>Recent content in Posts on PhilippGeisler.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2017 10:31:11 +0200</lastBuildDate>
     <atom:link href="http://philippgeisler.cc/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Octavo Theme for Hugo: The Strange Case of…</title>
+      <link>http://philippgeisler.cc/post/octavo-for-hugo/</link>
+      <pubDate>Fri, 31 Mar 2017 10:31:11 +0200</pubDate>
+      
+      <guid>http://philippgeisler.cc/post/octavo-for-hugo/</guid>
+      <description>
+
+&lt;p&gt;OCTAVO&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; is a theme for &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; inspired by a blog post by Clive Thompson, &lt;a href=&#34;http://www.collisiondetection.net/mt/archives/2014/02/_thats_one_of_t.php&#34;&gt;&lt;em&gt;Why 18th century books looked like smartphone screens&lt;/em&gt;&lt;/a&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; – the title speaks for itself, esp. should you be reading this on a smartphone.&lt;/p&gt;
+
+&lt;p&gt;The title of &lt;em&gt;this&lt;/em&gt; very post, though, reflects the development history of this theme. First created in December 2015 for the &lt;a href=&#34;http://philippgeisler.cc/post/octavo-theme&#34;&gt;Kirby CMS&lt;/a&gt;, I decided recently to switch to a fully static system. For a couple of days, my blog ran OCTAVO through &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, before deciding to go with Hugo after all, the result of which can be seen here.&lt;/p&gt;
+
+&lt;h2 id=&#34;specimen&#34;&gt;Specimen&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h3 id=&#34;trappatoni&#34;&gt;Trappatoni&lt;/h3&gt;
+
+&lt;p&gt;A blockquote, from 1998&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Zweitens: ich habe erklärt mit diese zwei Spieler: nach Dortmund brauchen vielleicht Halbzeit Pause. Ich habe auch andere Mannschaften gesehen in Europa nach diese Mittwoch. Ich habe gesehen auch zwei Tage die Training. Ein Trainer ist nicht ein Idiot! Ein Trainer sei sehen was passieren in Platz. In diese Spiel es waren zwei, drei diese Spieler waren schwach wie eine Flasche leer! Haben Sie gesehen Mittwoch, welche Mannschaft hat gespielt Mittwoch? Hat gespielt Mehmet oder gespielt Basler oder hat gespielt Trapattoni? Diese Spieler beklagen mehr als sie spielen! Wissen Sie, warum die Italienmannschaften kaufen nicht diese Spieler? Weil wir haben gesehen viele Male solche Spiel!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That was quite a &lt;strong&gt;bold statement&lt;/strong&gt; at the time!&lt;/p&gt;
+
+&lt;p&gt;A list listing list items:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a list item&lt;/li&gt;
+&lt;li&gt;in an unordered fashion
+
+&lt;ul&gt;
+&lt;li&gt;a list within a list item&lt;/li&gt;
+&lt;li&gt;more in that item&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;the latest list item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Put to order:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;a list item&lt;/li&gt;
+&lt;li&gt;in an orderly fashion
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;disorderly conduct&lt;/em&gt; of a list item&lt;/li&gt;
+&lt;li&gt;within a list item&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;the last list item at last&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;An image of a book’s title page&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    &lt;a href=&#34;http://philippgeisler.cc/images/20170331-octavo-for-hugo-figtitlepage.jpg&#34;&gt;
+        &lt;img src=&#34;http://philippgeisler.cc/images/20170331-octavo-for-hugo-figtitlepage.jpg&#34; alt=&#34;The Plan of an Essay Upon Delicacy, by Nathaniel Lancaster, 1748&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The Plan of an Essay Upon Delicacy, by Nathaniel Lancaster, 1748
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;code&gt;&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;&lt;/code&gt;…&lt;code&gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;figure {
+  img {
+    width: 100%;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;Definition&lt;/dt&gt;
+&lt;dd&gt;A statement of the meaning of a word or word group or a sign or symbol&lt;/dd&gt;
+&lt;dd&gt;The action or power of describing, explaining, or making definite and clear.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h3 id=&#34;the-fell-types&#34;&gt;The Fell Types&lt;/h3&gt;
+
+&lt;p&gt;aäb cde fgh ijk lmn oöp qrsß tuü vwx yz
+AÄBC DEF GHI JKL MNO ÖPQ RST UÜV WXYZ
+! &amp;ldquo; § $ % &amp;amp; / ( ) = ? * &amp;lsquo; &amp;lt; &amp;gt; # | ; ²³ ~ @ `´ ©  « »  &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;  ¼ × { }&lt;/p&gt;
+
+&lt;p&gt;The Fell Types are digitally reproduced by &lt;a href=&#34;http://www.iginomarini.com&#34;&gt;Igino Marini&lt;/a&gt;. Without them, OCTAVO would not have happened.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;“Octavo, a Latin word meaning ‘in eighth’ or ‘for the eighth time’, (abbreviated 8vo, 8°, or In-8) is a technical term describing the format of a book…” – &lt;a href=&#34;https://en.wikipedia.org/wiki/Octavo&#34;&gt;Wikipedia&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;“A Fast &amp;amp; Modern &lt;a href=&#34;https://gohugo.io/overview/introduction/&#34;&gt;Static Website Engine&lt;/a&gt;”
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;via this &lt;a href=&#34;https://twitter.com/StabiHH/status/675210320273661952&#34;&gt;tweet&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;from &lt;a href=&#34;http://www.blindtextgenerator.de/&#34;&gt;Blindtextgenerator&lt;/a&gt;, actually
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;from &lt;a href=&#34;https://archive.org/details/planofessayupond00lanc&#34;&gt;The Internet Archive&lt;/a&gt;, curtesy of the &lt;a href=&#34;https://onesearch.library.utoronto.ca/&#34;&gt;University of Toronto Library&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>On the Gradual Production of Thoughts Whilst Speaking by Heinrich von Kleist</title>
