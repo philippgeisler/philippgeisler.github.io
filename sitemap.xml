@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://philippgeisler.cc/post/gradual-production-of-thoughts/</loc>
+    <lastmod>2015-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://philippgeisler.cc/post/octavo-theme/</loc>
+    <lastmod>2015-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://philippgeisler.cc/post/1759-12-12-octavo/</loc>
+    <lastmod>1795-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://philippgeisler.cc/</loc>
+    <lastmod>2015-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://philippgeisler.cc/post/</loc>
+    <lastmod>2015-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
